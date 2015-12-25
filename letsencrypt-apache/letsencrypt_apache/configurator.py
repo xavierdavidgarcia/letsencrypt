@@ -1306,6 +1306,7 @@ class ApacheConfigurator(augeas_configurator.AugeasConfigurator):
 
         """
         self.config_test()
+        logger.debug(self.reverter.view_config_changes())
         self._reload()
 
     def _reload(self):
@@ -1343,7 +1344,7 @@ class ApacheConfigurator(augeas_configurator.AugeasConfigurator):
         """
         try:
             stdout, _ = le_util.run_script(
-                constants.os_constant("version_cmd").split(" "))
+                constants.os_constant("version_cmd"))
         except errors.SubprocessError:
             raise errors.PluginError(
                 "Unable to run %s -v" % self.conf("ctl"))
