@@ -982,6 +982,9 @@ def prepare_and_parse_args(plugins, args):
         "multiple times to incrementally increase the verbosity of output, "
         "e.g. -vvv.")
     helpful.add(
+        None, "-q", "--quiet", dest="verbose_count", action="store_const",
+        const=-4, help="Suppress non-error output")
+    helpful.add(
         None, "-t", "--text", dest="text_mode", action="store_true",
         help="Use the text output instead of the curses UI.")
     helpful.add(
