@@ -51,7 +51,7 @@ configobj==5.0.6
 # sha256: 26GA8xrb5xi6qdbPirY0hJSwlLK4GAL_8zvVDSfRPnM
 # sha256: 5RinlLjzjoOC9_B3kUGBPOtIE6z9MRVBwNsOGJ69eN4
 # sha256: f1FFn4TWcERCdeYVg59FQsk1R6Euk4oKSQba_l994VM
-cryptography==1.1.2
+cryptography==3.2
 
 # sha256: JHXX_N31lR6S_1RpcnWIAt5SYL9Akxmp8ZNOa7yLHcc
 # sha256: NZB977D5krdat3iPZf7cHPIP-iJojg5vbxKvwGs-pQE
