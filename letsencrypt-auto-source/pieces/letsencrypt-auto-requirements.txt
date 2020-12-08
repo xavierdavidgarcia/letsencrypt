@@ -151,7 +151,7 @@ pytz==2015.7
 
 # sha256: ET-7pVManjSUW302szoIToul0GZLcDyBp8Vy2RkZpbg
 # sha256: xXeBXdAPE5QgP8ROuXlySwmPiCZKnviY7kW45enPWH8
-requests==2.9.1
+requests==2.20.0
 
 # sha256: D_eMQD2bzPWkJabTGhKqa0fxwhyk3CVzp-LzKpczXrE
 # sha256: EF-NaGFvgkjiS_DpNy7wTTzBAQTxmA9U1Xss5zpa1Wo
