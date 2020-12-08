@@ -121,7 +121,7 @@ pycparser==2.14
 
 # sha256: iORea7Jd_tJyoe8ucoRh1EtjTCzWiemJtuVqNJxaOuU
 # sha256: 8KJgcNbbCIHei8x4RpNLfDyTDY-cedRYg-5ImEvA1nI
-pyOpenSSL==0.15.1
+pyOpenSSL==17.5.0
 
 # sha256: 7qMYNcVuIJavQ2OldFp4SHimHQQ-JH06bWoKMql0H1Y
 # sha256: jfvGxFi42rocDzYgqMeACLMjomiye3NZ6SpK5BMl9TU
