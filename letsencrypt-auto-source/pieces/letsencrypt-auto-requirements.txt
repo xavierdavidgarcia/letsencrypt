@@ -101,7 +101,7 @@ pbr==1.8.1
 # sha256: 36eGhYwmjX-74bYXXgAewCc418-uCnzne_m2Ua9nZyk
 # sha256: qnf53nKvnBbMKIzUokz1iCQ4j1fXqB5ADEYWRXYphw4
 # sha256: 9QAJM1fQTagUDYeTLKwuVO9ZKlTKinQ6uyhQ9gwsIus
-psutil==3.3.0
+psutil==5.6.6
 
 # sha256: YfnZnjzvZf6xv-Oi7vepPrk4GdNFv1S81C9OY9UgTa4
 # sha256: GAKm3TIEXkcqQZ2xRBrsq0adM-DSdJ4ZKr3sUhAXJK8
